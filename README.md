@@ -5,7 +5,7 @@ Unet is a special type of Convolutional Neural Network and by using a U-Net Sema
 
 ## **GIT path**
 
-- Git path - **https://github.com/Rajasirpi/AOHRSI**
+- Git path - **https://github.com/suriyahgit/Analysis-of-High-Resolution-Imagery---UNET
 
 
 ## **Getting Started**
