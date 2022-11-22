@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 - Clone the Project to the development system
 
-  `https://github.com/Rajasirpi/AOHRSI.git`
+  `[https://github.com/Rajasirpi/AOHRSI.git](https://github.com/suriyahgit/Analysis-of-High-Resolution-Imagery---UNET.git)`
 
 ### Prerequisites
 
